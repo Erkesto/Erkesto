@@ -31,10 +31,15 @@ Feel free to reach out to me if you need any assistance.
 
 #
 
+### Connect with me:
+<a href="https://www.linkedin.com/in/dhruv-sethi-a4776b1b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
+#
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erkesto&show_icons=true&theme=gruvbox)
+![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erkesto&show_icons=true&theme=gruvbox)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Erkesto&&theme=gruvbox" alt="Sunny" />
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Erkesto&show_icons=true&locale=en&layout=donut&theme=gruvbox" alt="Sunny" />
 
 #
