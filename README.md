@@ -32,14 +32,14 @@ Feel free to reach out to me if you need any assistance.
 #
 
 ### Connect with me:
-<a href="https://www.linkedin.com/in/dhruv-sethi-a4776b1b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dhruv-sethi-a4776b1b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 #
 ### 📊 Stats
 
-![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erkesto&show_icons=true&theme=gruvbox)
+![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erkesto&show_icons=true&theme=tokyonight)
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Erkesto&&theme=gruvbox" alt="Sunny" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Erkesto&&theme=tokyonight" alt="Sunny" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Erkesto&show_icons=true&locale=en&layout=donut&theme=gruvbox" alt="Sunny" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Erkesto&show_icons=true&locale=en&layout=donut&theme=tokyonight" alt="Sunny" />
 
 #
