@@ -5,6 +5,10 @@
 I'm an indie developer and digital enthusiast keen on learning all the cool stuff in and around IOT and programming, old and new alike. The different repositories here consist of my journey through coding in different environments and experimenting with other languages, each of them has high-quality comments and documentation to help you understand the code better, this includes the files with notes and reference material that state the conventions I use.
 Feel free to reach out to me if you need any assistance.
 
+#### My skills you might be interested to know about...
+1. Generic Problem-Solver
+2. Team-Oriented personality
+3. Adept maybe even a geek XD
 ---
 
 ### 🧰 Languages and Tools
