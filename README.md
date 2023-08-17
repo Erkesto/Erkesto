@@ -8,7 +8,7 @@ Feel free to reach out to me if you need any assistance.
 #### My skills you might be interested to know about...
 1. Generic Problem-Solver
 2. Team-Oriented personality
-3. Adept maybe even a geek XD
+3. Adept, maybe even a geek XD
 ---
 
 ### 🧰 Languages and Tools
