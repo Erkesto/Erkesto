@@ -39,7 +39,7 @@ Feel free to reach out to me if you need any assistance.
 #
 ### 📊 Stats
 
-![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erkesto&show_icons=true&theme=tokyonight)
+![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erkesto&show_icons=true&theme=tokyonight&rank_icon=github)
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Erkesto&&theme=tokyonight" alt="Sunny" />
 
