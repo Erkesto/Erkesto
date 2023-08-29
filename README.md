@@ -41,7 +41,7 @@ Feel free to reach out to me if you need any assistance.
 
 ![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erkesto&show_icons=true&theme=tokyonight&rank_icon=github)
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Erkesto&&theme=tokyonight" alt="Sunny" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Erkest&&theme=tokyonight" alt="Sunny" />
 
 [//]: # (This may be the most platform independent comment, <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Erkesto&show_icons=true&locale=en&layout=donut&theme=tokyonight" alt="Sunny" />)
 
