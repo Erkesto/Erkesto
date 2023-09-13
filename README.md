@@ -43,6 +43,8 @@ Feel free to reach out to me if you need any assistance.
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Erkesto&&theme=tokyonight" alt="Sunny" />
 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erkesto&size_weight=0.5&count_weight=0.5&show_icons=true&locale=en&layout=donut&theme=tokyonight" alt="Sunny" />
+
 [//]: # (This may be the most platform independent comment, <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Erkesto&show_icons=true&locale=en&layout=donut&theme=tokyonight" alt="Sunny" />)
 
 [//]: # (*find another way to do this*<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erkesto&size_weight=0.5&count_weight=0.5&show_icons=true&locale=en&layout=donut&theme=tokyonight" alt="Sunny" />)
